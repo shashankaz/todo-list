@@ -8,7 +8,7 @@ A simple and elegant todo list app built with React. Easily manage your tasks wi
 - Mark tasks as completed
 - Delete tasks
 - Responsive design
-- 
+
 ## Getting Started
 
 ### Prerequisites
