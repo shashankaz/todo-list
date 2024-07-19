@@ -7,6 +7,7 @@ A simple and elegant todo list app built with React. Easily manage your tasks wi
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
+- Persistent storage with `localStorage`
 - Responsive design
 
 ## Getting Started
@@ -74,3 +75,8 @@ A simple and elegant todo list app built with React. Easily manage your tasks wi
 ### Deleting a Todo
 
 1. Click the "Delete" button next to the task you want to delete.
+
+## Persistent Storage
+
+- The app uses `localStorage` to persist todos across page reloads and browser sessions.
+- Todos are automatically saved to `localStorage` whenever they are added, completed, or deleted.
